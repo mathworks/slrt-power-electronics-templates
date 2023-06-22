@@ -22,7 +22,7 @@ The templates are designed to be customizable and extendable, HDL Coder is requi
 ## Examples
 To learn how to use power electronics template to do permanent magnet synchronous machine field-oriented control and use App Designer application to control simulation, see [Examples](/examples/FOCandPMSM). 
 
-### MathWorks Products (http://www.mathworks.com)
+### MathWorks Products (https://www.mathworks.com)
 
 Requires MATLAB&reg; release R2022b or newer
 - [Simulink&reg; Real-Time&trade;](https://www.mathworks.com/products/simulink-real-time.html)

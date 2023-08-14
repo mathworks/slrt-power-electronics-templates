@@ -1,4 +1,4 @@
-# ** Power Electronics Templates for Simulink Real-Time** 
+# Power Electronics Templates for Simulink Real-Time
 
 [![View <Simulink Real-Time Power Electronics templates> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####Simulink-Real-Time-Power-Electronics-templates)  
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 

@@ -32,8 +32,8 @@ For design customizations, the following products are also required:
 - [Motor Control Blockset&reg;](https://www.mathworks.com/products/motor-control.html) for PMSM and induction motor HDL compatible models
 
 Before proceeding, ensure that the below products are installed:  
-* [Speedgoat I/O Blockset](https://www.speedgoat.com/help/slrt/page/help_home)
-* [Speedgoat HDL Coder Integration Packages](https://www.speedgoat.com/help/slrt/page/help_home)
+* Speedgoat I/O Blockset
+* Speedgoat HDL Coder Integration Packages
 
 
 ## Community Support
